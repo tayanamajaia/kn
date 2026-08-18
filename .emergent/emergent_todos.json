@@ -1,0 +1,38 @@
+[
+  {
+    "content": "P6.0 Pulihkan repo dari GitHub + verifikasi titik henti P5 (75 gate HIJAU)",
+    "status": "completed"
+  },
+  {
+    "content": "P6.A1-A5 Dropdown Seragam: 13 dropdown → KNSelect, aria-label, ux_audit W2→E4, 0 ERROR 0 WARN, verifikasi visual",
+    "status": "completed"
+  },
+  {
+    "content": "P6.B1-B8 Unduh CSV: csvExport, askChoice, fetchAll, PaginationBar, 12 pager, AccountList, gate INV-UI-07, unduhan nyata",
+    "status": "completed"
+  },
+  {
+    "content": "P6.C1 gate.sh --full → 77 PASS / 0 FAIL / 0 SKIP (receipt mode full)",
+    "status": "completed"
+  },
+  {
+    "content": "P6.C2 Uji ujung-ke-ujung testing_agent (2 ronde) — ronde-2 0 bug UI; 2 temuan diperbaiki",
+    "status": "completed"
+  },
+  {
+    "content": "P6.C3 Bug ikutan: label Inggris 'outstanding' + widget mengapung menelan klik — keduanya diperbaiki",
+    "status": "completed"
+  },
+  {
+    "content": "P6.C4 Verifikasi dropdown di DALAM modal (INV-UI-01: modal tidak tertutup saat memilih opsi)",
+    "status": "completed"
+  },
+  {
+    "content": "P6.C5 Perbarui plan.md §STATUS P6 + PERF_UX_AUDIT.md §P6 + INVARIANTS.md + docs standar",
+    "status": "completed"
+  },
+  {
+    "content": "P6.C6 Residu dibersihkan (seed ulang + baseline), integritas 236 PASS / 0 FAIL",
+    "status": "completed"
+  }
+]
